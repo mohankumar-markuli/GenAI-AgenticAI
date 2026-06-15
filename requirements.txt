@@ -3,3 +3,12 @@ pandas
 numpy
 python-dotenv
 requests
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
+ipywidgets
