@@ -1,4 +1,4 @@
-# Backend Delopment
+# GenAI and AgenticAI
 
 Python
 GenAI
