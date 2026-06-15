@@ -1,5 +1,5 @@
 # Backend Delopment
 
 Python
-Django
-
+GenAI
+RAG Pipeline
