@@ -13,3 +13,4 @@ faiss-cpu
 chromadb
 ipywidgets
 pathlib
+langchain_groq
