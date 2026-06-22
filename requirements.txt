@@ -3,9 +3,6 @@ pandas
 numpy
 python-dotenv
 requests
-langchain
-langchain-core
-langchain-community
 pypdf
 pymupdf
 sentence-transformers
@@ -13,4 +10,10 @@ faiss-cpu
 chromadb
 ipywidgets
 pathlib
+streamlit
+langchain
+langchain-core
 langchain_groq
+langchain-community
+langchain-openai
+langchain-ollama
